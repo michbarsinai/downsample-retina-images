@@ -11,4 +11,7 @@ Downsample all the images that end with "@2x.png" in another directory:
     downsample-retinas another_directory
 
 
+Don't forget to make the script file execuatble, by calling:
+
+    chmod +x downsample-retinas
 
